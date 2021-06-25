@@ -1,0 +1,38 @@
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+header {
+    padding: 20px;
+    font-family:   'Roboto', 'Helvetica', sans-serif;
+    background-color: #FF695B;
+    color: #0a0a0a;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+header h1 .seo {
+    color: #d9dcd6;
+}
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family:   'Roboto', 'Helvetica', sans-serif;
+    font-size: 20px;
+}
+
+header nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 25px;
+}
+
+body {
+    background-color: #EAE8D0;
+}
